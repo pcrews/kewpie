@@ -252,7 +252,7 @@ class mysqlTree(codeTree):
                                                      'mysqlslap')], required=0)
 
         #self.mysqltest = self.system_manager.find_path([os.path.join(self.clientbindir,
-                                                   'mysqltest')])
+        #                                           'mysqltest')])
         self.server_version_string = None
         self.server_executable = None
         self.server_version = None
