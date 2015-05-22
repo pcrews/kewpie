@@ -1,3 +1,8 @@
+# Custom ignores
+workdir
+qp_data/uuid
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
